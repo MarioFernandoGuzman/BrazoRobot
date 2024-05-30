@@ -1,0 +1,13 @@
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.exe.config
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.exe
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.pdb
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.Form1.resources
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.Properties.Resources.resources
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.exe
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.pdb
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto.C856D37D.Up2Date
