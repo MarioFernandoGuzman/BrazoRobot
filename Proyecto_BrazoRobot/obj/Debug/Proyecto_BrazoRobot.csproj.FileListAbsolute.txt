@@ -11,3 +11,16 @@ C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Pr
 C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.dll
 C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.xml
 C:\Users\mario\source\repos\Proyecto_BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto.C856D37D.Up2Date
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.exe.config
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.exe
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Proyecto_BrazoRobot.pdb
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.AssemblyReference.cache
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.Form1.resources
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.Properties.Resources.resources
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.GenerateResource.cache
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.csproj.CoreCompileInputs.cache
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto.C856D37D.Up2Date
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.exe
+C:\Users\ETHAN\Desktop\BrazoRobot\Proyecto_BrazoRobot\obj\Debug\Proyecto_BrazoRobot.pdb
